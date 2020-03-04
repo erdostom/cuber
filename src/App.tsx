@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
 
+const trueAsStr = 'true' as any
+
 function App() {
   let [number, setNumber] = React.useState(0)
   let [guess, setGuess] = React.useState(0)
@@ -29,7 +31,7 @@ function App() {
         <h1>Guess the cube root</h1>
         <h2>{formatOutputNumber(number ** 3)}</h2>
           <input
-            autoFocus={true}
+            autoFocus={trueAsStr}
             style={{
               fontSize: 24,
             }}
