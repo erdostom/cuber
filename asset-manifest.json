@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cuber/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cuber/static/js/main.5339026c.chunk.js",
-    "main.js.map": "/cuber/static/js/main.5339026c.chunk.js.map",
+    "main.js": "/cuber/static/js/main.32a769c4.chunk.js",
+    "main.js.map": "/cuber/static/js/main.32a769c4.chunk.js.map",
     "runtime-main.js": "/cuber/static/js/runtime-main.d4ac12e0.js",
     "runtime-main.js.map": "/cuber/static/js/runtime-main.d4ac12e0.js.map",
     "static/js/2.dd866663.chunk.js": "/cuber/static/js/2.dd866663.chunk.js",
     "static/js/2.dd866663.chunk.js.map": "/cuber/static/js/2.dd866663.chunk.js.map",
     "index.html": "/cuber/index.html",
-    "precache-manifest.d3ed6ca3bcbde5c9ac949303e26c42c3.js": "/cuber/precache-manifest.d3ed6ca3bcbde5c9ac949303e26c42c3.js",
+    "precache-manifest.885e950c3ed8ac818c973cac5c23afec.js": "/cuber/precache-manifest.885e950c3ed8ac818c973cac5c23afec.js",
     "service-worker.js": "/cuber/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/cuber/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.dd866663.chunk.js.LICENSE.txt": "/cuber/static/js/2.dd866663.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d4ac12e0.js",
     "static/js/2.dd866663.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.5339026c.chunk.js"
+    "static/js/main.32a769c4.chunk.js"
   ]
 }
